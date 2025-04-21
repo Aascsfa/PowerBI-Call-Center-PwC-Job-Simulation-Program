@@ -1,4 +1,4 @@
-# Power BI Dashboard: Call Centre Trends
+# Power BI Dashboard: Call Centre Trends Analysis
 
 ## Overview
 The dashboard offers insights into call centre performance and helps monitor employee KPIs. With this set of visualizations, users can track overall efficiency, agent performance, and customer satisfaction while exploring the call trends and resolution rates.
